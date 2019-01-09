@@ -1,3 +1,5 @@
+Nimi vsh-laurits
+
 ip - 172.23.13.47/16
 
 Arvuti nr 11
